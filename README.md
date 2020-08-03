@@ -1,3 +1,14 @@
+This is an example app to learn state management in React together with the context API.
+
+## Install and Run
+
+```
+npm i
+npm start
+```
+
+Open http://localhost:3000
+
 ## Moods in StateContext
 
 The goal of the assignment is to move Moods out of the App local state to the StateContextProvider state, which will make it available throughtout the entire application.
